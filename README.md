@@ -4,8 +4,8 @@ Le design a été fait par Jonas Schmedtmann
 
 # But du projet
 Le but de ce projet était d'apprendre le JavaScript de manière avancée, avec la version ES6 et celles d'après<br/>
-L'application permet de rechercher des recettes de cuisine depuis l'api de https://www.food2fork.com/
-Il est possible de mettre un "Like" aux recettes qu'on veut
+L'application permet de rechercher des recettes de cuisine depuis l'api de https://www.food2fork.com/<br/>
+Il est possible de mettre un "Like" aux recettes qu'on veut<br/>
 Et aussi de mettre les ingrédients de la recette dans une "Shopping List"
 
 # Pour le tester
